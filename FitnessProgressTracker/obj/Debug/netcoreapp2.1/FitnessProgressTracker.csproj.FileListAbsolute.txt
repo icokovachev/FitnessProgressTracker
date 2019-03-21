@@ -139,3 +139,5 @@ A:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Fitness
 A:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\FitnessProgressTracker.pdb
 A:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\FitnessProgressTracker.csproj.CopyComplete
 A:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\Calendar\Index.g.cshtml.cs
+D:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\Calendar\Index.g.cshtml.cs
+D:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\Calculator\Calculator.g.cshtml.cs
