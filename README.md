@@ -22,7 +22,7 @@ This is platform, that helps with <b>tracking goals</b>, <b>tracking the progres
 
 # Technical Details:
 
-The platform is whriten in C# (controllers and main functions), HTML&CSS + JavaScript (view), Entity Framework + MySQL Server (DataBases). 
+The platform is whriten in <b>C#</b> (controllers and main functions), <b>HTML&CSS</b> + <b>JavaScript</b> (view), <b>Entity Framework</b> + <b>MySQL Server</b> (DataBases). 
 
 # Contacts:
 
