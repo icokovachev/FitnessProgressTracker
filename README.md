@@ -30,7 +30,7 @@ e-mail:
 
 fitprogtacker@gmail.com
 
-privet contact
+private contact
 
 hkovachev01@gmail.com
 
