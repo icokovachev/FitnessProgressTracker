@@ -26,6 +26,12 @@ The platform is whriten in <b>C#</b> (controllers and main functions), <b>HTML&C
 
 # Contacts:
 
-Hristo Kovachev
+e-mail:
+
+fitprogtacker@gmail.com
+
+privet contact
+
 hkovachev01@gmail.com
-hkovachev.it@gmail.com
+
+Hristo Kovachev
