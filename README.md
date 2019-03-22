@@ -30,6 +30,10 @@ e-mail:
 
 fitprogtacker@gmail.com
 
+discord server:
+
+https://discord.gg/gv9YJa
+
 private contact
 
 hkovachev01@gmail.com
