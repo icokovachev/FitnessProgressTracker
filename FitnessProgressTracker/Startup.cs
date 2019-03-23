@@ -12,6 +12,7 @@ using Microsoft.EntityFrameworkCore;
 using FitnessProgressTracker.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using FitnessProgressTracker.Models;
 
 namespace FitnessProgressTracker
 {
@@ -68,6 +69,9 @@ namespace FitnessProgressTracker
             });
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            services.AddDbContext<CalculatorContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("CalculatorContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
