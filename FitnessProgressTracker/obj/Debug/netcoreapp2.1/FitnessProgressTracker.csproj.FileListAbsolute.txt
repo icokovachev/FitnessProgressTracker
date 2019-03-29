@@ -139,7 +139,6 @@ A:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Fitness
 A:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\FitnessProgressTracker.csproj.CopyComplete
 A:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\Calendar\Index.g.cshtml.cs
 D:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\Calendar\Index.g.cshtml.cs
-D:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\Calculator\Calculator.g.cshtml.cs
 A:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
 A:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
 A:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
@@ -214,3 +213,8 @@ A:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\V
 A:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\CalculatorModels\Details.g.cshtml.cs
 A:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\CalculatorModels\Edit.g.cshtml.cs
 A:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\CalculatorModels\Index.g.cshtml.cs
+D:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\CalculatorModels\Create.g.cshtml.cs
+D:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\CalculatorModels\Delete.g.cshtml.cs
+D:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\CalculatorModels\Details.g.cshtml.cs
+D:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\CalculatorModels\Edit.g.cshtml.cs
+D:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\CalculatorModels\Index.g.cshtml.cs

@@ -16,7 +16,7 @@ namespace FitnessProgressTracker.Models
         public double Waist{get;set;}
         public double Hip {get;set;}
         public double Neck {get;set;}
-        [Display(Name = "Body fat percentage")]
+        [Display(Name = "BMI")]
         public double BodyFatPer { get; set; }
         [Display(Name = "Body fat mass")]
         public double BodyFatMass { get; set; }
