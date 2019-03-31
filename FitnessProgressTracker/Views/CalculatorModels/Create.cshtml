@@ -1,0 +1,54 @@
+﻿@model FitnessProgressTracker.Models.CalculatorModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>Fat/Mass Calculator</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Height" class="control-label"></label>
+                <input asp-for="Height" class="form-control" name="Height" />
+                <span asp-validation-for="Height" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Weight" class="control-label"></label>
+                <input asp-for="Weight" class="form-control" name="Weight" />
+                <span asp-validation-for="Weight" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Waist" class="control-label"></label>
+                <input asp-for="Waist" class="form-control" name="Waist" />
+                <span asp-validation-for="Waist" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Hip" class="control-label"></label>
+                <input asp-for="Hip" class="form-control" name="Hip" />
+                <span asp-validation-for="Hip" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Neck" class="control-label"></label>
+                <input asp-for="Neck" class="form-control" name="Neck" />
+                <span asp-validation-for="Neck" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
