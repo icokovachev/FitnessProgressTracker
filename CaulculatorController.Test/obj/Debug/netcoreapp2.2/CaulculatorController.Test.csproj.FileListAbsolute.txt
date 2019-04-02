@@ -1,0 +1,16 @@
+D:\Git\FitnessProgressTracker\CaulculatorController.Test\bin\Debug\netcoreapp2.2\FitnessProgressTracker.Views.dll
+D:\Git\FitnessProgressTracker\CaulculatorController.Test\bin\Debug\netcoreapp2.2\FitnessProgressTracker.Views.pdb
+D:\Git\FitnessProgressTracker\CaulculatorController.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\Git\FitnessProgressTracker\CaulculatorController.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\Git\FitnessProgressTracker\CaulculatorController.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\Git\FitnessProgressTracker\CaulculatorController.Test\bin\Debug\netcoreapp2.2\CaulculatorController.Test.deps.json
+D:\Git\FitnessProgressTracker\CaulculatorController.Test\bin\Debug\netcoreapp2.2\CaulculatorController.Test.runtimeconfig.json
+D:\Git\FitnessProgressTracker\CaulculatorController.Test\bin\Debug\netcoreapp2.2\CaulculatorController.Test.runtimeconfig.dev.json
+D:\Git\FitnessProgressTracker\CaulculatorController.Test\bin\Debug\netcoreapp2.2\CaulculatorController.Test.dll
+D:\Git\FitnessProgressTracker\CaulculatorController.Test\bin\Debug\netcoreapp2.2\FitnessProgressTracker.dll
+D:\Git\FitnessProgressTracker\CaulculatorController.Test\bin\Debug\netcoreapp2.2\FitnessProgressTracker.pdb
+D:\Git\FitnessProgressTracker\CaulculatorController.Test\obj\Debug\netcoreapp2.2\CaulculatorController.Test.csprojAssemblyReference.cache
+D:\Git\FitnessProgressTracker\CaulculatorController.Test\obj\Debug\netcoreapp2.2\CaulculatorController.Test.csproj.CoreCompileInputs.cache
+D:\Git\FitnessProgressTracker\CaulculatorController.Test\obj\Debug\netcoreapp2.2\CaulculatorController.Test.AssemblyInfoInputs.cache
+D:\Git\FitnessProgressTracker\CaulculatorController.Test\obj\Debug\netcoreapp2.2\CaulculatorController.Test.AssemblyInfo.cs
+D:\Git\FitnessProgressTracker\CaulculatorController.Test\obj\Debug\netcoreapp2.2\CaulculatorController.Test.csproj.CopyComplete

@@ -18,6 +18,7 @@ namespace FitnessProgressTracker.Controllers
             _context = context;
         }
 
+
         // GET: CalculatorModels
         public async Task<IActionResult> Index()
         {
@@ -57,10 +58,9 @@ namespace FitnessProgressTracker.Controllers
         {
             if (ModelState.IsValid)
             {
-
-                Math.Round(calculatorModel.BodyFatPer = (calculatorModel.Weight / Math.Pow(calculatorModel.Height, 2)) * 10000, 2);
-                Math.Round(calculatorModel.BodyFatMass = (calculatorModel.BodyFatPer / 100) * calculatorModel.Weight, 2);
-                Math.Round(calculatorModel.LeanMass = calculatorModel.Weight - calculatorModel.BodyFatMass, 2);
+                calculatorModel.BodyFatPer = (calculatorModel.Weight / Math.Pow(calculatorModel.Height, 2)) * 10000;
+                calculatorModel.BodyFatMass = (calculatorModel.BodyFatPer / 100) * calculatorModel.Weight;
+                calculatorModel.LeanMass = calculatorModel.Weight - calculatorModel.BodyFatMass;
                 _context.Add(calculatorModel);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));

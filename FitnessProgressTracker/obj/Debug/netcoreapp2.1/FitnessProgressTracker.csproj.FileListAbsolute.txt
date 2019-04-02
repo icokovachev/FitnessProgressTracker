@@ -206,7 +206,6 @@ D:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Raz
 D:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
 D:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
 D:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Blog.g.cshtml.cs
-D:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 A:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Blog.g.cshtml.cs
 A:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\CalculatorModels\Create.g.cshtml.cs
 A:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\CalculatorModels\Delete.g.cshtml.cs
