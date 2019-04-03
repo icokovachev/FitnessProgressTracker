@@ -343,7 +343,6 @@ D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\A
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
-D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Blog.g.cshtml.cs
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\CalculatorModels\Create.g.cshtml.cs
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\CalculatorModels\Delete.g.cshtml.cs
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\CalculatorModels\Details.g.cshtml.cs
