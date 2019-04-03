@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hristo Kovachev\\Desktop\\casdasasa\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj": {}
+    "D:\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hristo Kovachev\\Desktop\\casdasasa\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj": {
+    "D:\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hristo Kovachev\\Desktop\\casdasasa\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj",
+        "projectUniqueName": "D:\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj",
         "projectName": "FitnessProgressTracker",
-        "projectPath": "C:\\Users\\Hristo Kovachev\\Desktop\\casdasasa\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj",
+        "projectPath": "D:\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj",
         "packagesPath": "C:\\Users\\Hristo Kovachev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hristo Kovachev\\Desktop\\casdasasa\\FitnessProgressTracker\\FitnessProgressTracker\\obj\\",
+        "outputPath": "D:\\FitnessProgressTracker\\FitnessProgressTracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

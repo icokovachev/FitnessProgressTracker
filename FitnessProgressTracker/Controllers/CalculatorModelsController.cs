@@ -6,6 +6,12 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using FitnessProgressTracker.Models;
+using Microsoft.AspNetCore.Identity;
+using NUnit.Framework;
+using System.Security.Claims;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+
 
 namespace FitnessProgressTracker.Controllers
 {
@@ -54,8 +60,32 @@ namespace FitnessProgressTracker.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+
         public async Task<IActionResult> Create([Bind("ID,Height,Weight,Waist,Hip,Neck,BodyFatPer,BodyFatMass,LeanMass")] CalculatorModel calculatorModel)
         {
+            //var claimsIdentity = User.Identity as ClaimsIdentity;
+            //if (claimsIdentity != null)
+            //{
+            //    var userIdClaim = claimsIdentity.Claims
+            //        .FirstOrDefault(x => x.Type == ClaimTypes.NameIdentifier);
+
+            //    if (userIdClaim != null)
+            //    {
+            //        //има такъв потребител
+            //        var userIdValue = userIdClaim.Value;
+            //    }
+            //    else
+            //    {
+            //         = "0";
+            //        resultAnswerSheet.UserName = "Guest";
+            //    }
+            //}
+            //else
+            //{
+            //    resultAnswerSheet.UserId = "0";
+            //    resultAnswerSheet.UserName = "Guest";
+            //}
+
             if (ModelState.IsValid)
             {
                 calculatorModel.BodyFatPer = (calculatorModel.Weight / Math.Pow(calculatorModel.Height, 2)) * 10000;
