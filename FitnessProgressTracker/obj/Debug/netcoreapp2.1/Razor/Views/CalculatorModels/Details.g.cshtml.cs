@@ -67,7 +67,7 @@ using FitnessProgressTracker.Models;
             WriteLiteral("    ");
             EndContext();
             BeginContext(103, 53, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "b698e194621449c0a9e0075960e6fce1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "4542ad0bb7e24623884849a867ddf3d7", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -246,7 +246,7 @@ using FitnessProgressTracker.Models;
             WriteLiteral("\r\n        </dd>\r\n    </dl>\r\n</div>\r\n<div>\r\n    ");
             EndContext();
             BeginContext(1672, 54, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f1f820e1716d49f2997ae3195809c029", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e32c4307da7c40709d10b6e359ab905c", async() => {
                 BeginContext(1718, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -281,7 +281,7 @@ using FitnessProgressTracker.Models;
             WriteLiteral(" |\r\n    ");
             EndContext();
             BeginContext(1734, 38, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "082e250f4e654c75a82238203174e6c4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "78473d6351d84ec9a8adaf7d5c3de74a", async() => {
                 BeginContext(1756, 12, true);
                 WriteLiteral("Back to List");
                 EndContext();

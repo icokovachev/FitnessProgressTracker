@@ -348,7 +348,6 @@ D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\V
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\CalculatorModels\Details.g.cshtml.cs
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\CalculatorModels\Edit.g.cshtml.cs
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\CalculatorModels\Index.g.cshtml.cs
-D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\Calendar\Index.g.cshtml.cs
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
@@ -366,3 +365,8 @@ D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Fitness
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\FitnessProgressTracker.dll
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\FitnessProgressTracker.pdb
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\FitnessProgressTracker.csproj.CopyComplete
+D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\ExerciseTracker\Create.g.cshtml.cs
+D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\ExerciseTracker\Delete.g.cshtml.cs
+D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\ExerciseTracker\Details.g.cshtml.cs
+D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\ExerciseTracker\Edit.g.cshtml.cs
+D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\ExerciseTracker\Index.g.cshtml.cs

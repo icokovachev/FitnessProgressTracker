@@ -69,7 +69,7 @@ using FitnessProgressTracker.Models;
             WriteLiteral("\r\n<h2 style=\"color:#A0C1D1; padding-top: 40px;\">Calculator</h2>\r\n");
             EndContext();
             BeginContext(180, 53, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "994d7ba6bbcd4f299dbb6e52984114b7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "400a321b4b7d44b191d801b0cff7942d", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -88,7 +88,7 @@ using FitnessProgressTracker.Models;
             WriteLiteral("\r\n\r\n<p>\r\n    ");
             EndContext();
             BeginContext(246, 37, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae5915aa88824c37b92d4ffb762ab870", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d53c9ee91ada4eb09bb13ab37a1dea67", async() => {
                 BeginContext(269, 10, true);
                 WriteLiteral("Create New");
                 EndContext();
@@ -278,7 +278,7 @@ using FitnessProgressTracker.Models;
             WriteLiteral("\r\n            </td>\r\n            <td>\r\n                ");
             EndContext();
             BeginContext(2056, 53, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "601654d8c5cb4d2c99a14d953e2e7676", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1dfc4f944aaa461ea63290cbf6a622cf", async() => {
                 BeginContext(2101, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -313,7 +313,7 @@ using FitnessProgressTracker.Models;
             WriteLiteral(" |\r\n                ");
             EndContext();
             BeginContext(2129, 59, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9fd02c77386247c88d0d9374d1860fc3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3530f76167124d58ad18daf15444884f", async() => {
                 BeginContext(2177, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -348,7 +348,7 @@ using FitnessProgressTracker.Models;
             WriteLiteral(" |\r\n                ");
             EndContext();
             BeginContext(2208, 57, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e85d686d5612437aa522fdc95304802d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1d1ff9eb2378421a884784310bf6f149", async() => {
                 BeginContext(2255, 6, true);
                 WriteLiteral("Delete");
                 EndContext();

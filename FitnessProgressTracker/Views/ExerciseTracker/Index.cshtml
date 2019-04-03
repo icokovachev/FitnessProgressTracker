@@ -1,0 +1,62 @@
+﻿@model IEnumerable<FitnessProgressTracker.Models.Exer_tracker>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2 style="color:#A0C1D1; padding-top: 40px;">Exercise Tracker</h2>
+<link rel="stylesheet" href="~/css/exer_track.css" />
+
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DOB)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.exercise)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.repeats)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.load)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.time_between)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DOB)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.exercise)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.repeats)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.load)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.time_between)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

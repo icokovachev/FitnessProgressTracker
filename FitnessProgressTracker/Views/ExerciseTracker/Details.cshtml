@@ -1,0 +1,50 @@
+﻿@model FitnessProgressTracker.Models.Exer_tracker
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2 style="color:#A0C1D1; padding-top: 40px;">Details</h2>
+<link rel="stylesheet" href="~/css/exer_track.css" />
+
+
+<div>
+    <h4 style="color:#A0C1D1;">Exercise tracker</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DOB)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DOB)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.exercise)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.exercise)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.repeats)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.repeats)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.load)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.load)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.time_between)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.time_between)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

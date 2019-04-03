@@ -1,0 +1,53 @@
+﻿@model FitnessProgressTracker.Models.Exer_tracker
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2 style="color:#A0C1D1; padding-top: 40px;">Edit</h2>
+<link rel="stylesheet" href="~/css/exer_track.css" />
+
+
+<h4 style="color:#A0C1D1;">Exercise tracker</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ID" />
+            <div class="form-group">
+                <label asp-for="DOB" class="control-label"></label>
+                <input asp-for="DOB" class="form-control" />
+                <span asp-validation-for="DOB" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="exercise" class="control-label"></label>
+                <input asp-for="exercise" class="form-control" />
+                <span asp-validation-for="exercise" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="repeats" class="control-label"></label>
+                <input asp-for="repeats" class="form-control" />
+                <span asp-validation-for="repeats" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="load" class="control-label"></label>
+                <input asp-for="load" class="form-control" />
+                <span asp-validation-for="load" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="time_between" class="control-label"></label>
+                <input asp-for="time_between" class="form-control" />
+                <span asp-validation-for="time_between" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
