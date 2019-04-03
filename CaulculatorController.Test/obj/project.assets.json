@@ -7471,23 +7471,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hkova\\.nuget\\packages\\": {},
+    "C:\\Users\\Hristo Kovachev\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\FitnessProgressTracker\\CaulculatorController.Test\\CaulculatorController.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Hristo Kovachev\\Desktop\\casdasasa\\FitnessProgressTracker\\CaulculatorController.Test\\CaulculatorController.Test.csproj",
       "projectName": "CaulculatorController.Test",
-      "projectPath": "D:\\Git\\FitnessProgressTracker\\CaulculatorController.Test\\CaulculatorController.Test.csproj",
-      "packagesPath": "C:\\Users\\hkova\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\FitnessProgressTracker\\CaulculatorController.Test\\obj\\",
+      "projectPath": "C:\\Users\\Hristo Kovachev\\Desktop\\casdasasa\\FitnessProgressTracker\\CaulculatorController.Test\\CaulculatorController.Test.csproj",
+      "packagesPath": "C:\\Users\\Hristo Kovachev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hristo Kovachev\\Desktop\\casdasasa\\FitnessProgressTracker\\CaulculatorController.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\hkova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hristo Kovachev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7500,8 +7500,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Git\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj": {
-              "projectPath": "D:\\Git\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj"
+            "C:\\Users\\Hristo Kovachev\\Desktop\\casdasasa\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj": {
+              "projectPath": "C:\\Users\\Hristo Kovachev\\Desktop\\casdasasa\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj"
             }
           }
         }
