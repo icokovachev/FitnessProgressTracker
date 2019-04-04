@@ -1,30 +1,46 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using FitnessProgressTracker.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
-using FitnessProgressTracker.Models;
 
 namespace FitnessProgressTracker.Controllers
 {
+    /// <summary>
+    /// This is the Exercise Tracker controller;
+    /// </summary>
     public class ExerciseTrackerController : Controller
     {
+        /// <summary>
+        /// Creates the DB context for Exercise Tracker
+        /// </summary>
         private readonly ExerciseTrackerContext _context;
 
+        /// <summary>
+        /// Initializes the DB context
+        /// </summary>
+        /// <param name="context"></param>
         public ExerciseTrackerController(ExerciseTrackerContext context)
         {
             _context = context;
         }
 
-        // GET: ExerciseTracker
+        /// <summary>
+        /// Calls for the Index page of the Exercise Tracker View;
+        /// </summary>
+        /// <returns> View(await _context.Exer_tracker.ToListAsync()) </returns>
         public async Task<IActionResult> Index()
         {
             return View(await _context.Exer_tracker.ToListAsync());
         }
 
-        // GET: ExerciseTracker/Details/5
+        /// <summary>
+        /// Checks if the id of the DB entry is valid;
+        /// if it is calls for the Details view of the Exercise Tracking View;
+        /// if it is not - calls for the Not Found /404/ page;
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns> View(exer_tracker) </returns>
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -32,7 +48,7 @@ namespace FitnessProgressTracker.Controllers
                 return NotFound();
             }
 
-            var exer_tracker = await _context.Exer_tracker
+            Exer_tracker exer_tracker = await _context.Exer_tracker
                 .FirstOrDefaultAsync(m => m.ID == id);
             if (exer_tracker == null)
             {
@@ -42,15 +58,21 @@ namespace FitnessProgressTracker.Controllers
             return View(exer_tracker);
         }
 
-        // GET: ExerciseTracker/Create
+        /// <summary>
+        /// Calls for the Create page of the Exercise Tracker View;
+        /// </summary>
+        /// <returns> View(); </returns>
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: ExerciseTracker/Create
-        // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
-        // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
+        /// <summary>
+        /// Main function of this Controller;
+        /// It creates new DB entry with given variables ("ID,DOB,exercise,repeats,load,time_between")
+        /// </summary>
+        /// <param name="exer_tracker"></param>
+        /// <returns> View(exer_tracker); </returns>
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("ID,DOB,exercise,repeats,load,time_between")] Exer_tracker exer_tracker)
@@ -64,7 +86,12 @@ namespace FitnessProgressTracker.Controllers
             return View(exer_tracker);
         }
 
-        // GET: ExerciseTracker/Edit/5
+        /// <summary>
+        /// Calls for the Edit page in Exercise Tra View;
+        /// Checks the ID of the database entry and returns the view;        
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -72,7 +99,7 @@ namespace FitnessProgressTracker.Controllers
                 return NotFound();
             }
 
-            var exer_tracker = await _context.Exer_tracker.FindAsync(id);
+            Exer_tracker exer_tracker = await _context.Exer_tracker.FindAsync(id);
             if (exer_tracker == null)
             {
                 return NotFound();
@@ -80,9 +107,15 @@ namespace FitnessProgressTracker.Controllers
             return View(exer_tracker);
         }
 
-        // POST: ExerciseTracker/Edit/5
-        // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
-        // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
+        /// <summary>
+        /// This method calls for the Edit page of the Exercise Tracker view;
+        /// Checks the id of the DB entry and gives the view with the opiton for the user to change the variables
+        /// ("ID,DOB,exercise,repeats,load,time_between")
+        /// Than it pass the entry back to the DB with the changes and takes the user to the Index page of Exercise Tracker View; 
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="exer_tracker"></param>
+        /// <returns> View(exer_tracker) </returns>
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("ID,DOB,exercise,repeats,load,time_between")] Exer_tracker exer_tracker)
@@ -115,7 +148,12 @@ namespace FitnessProgressTracker.Controllers
             return View(exer_tracker);
         }
 
-        // GET: ExerciseTracker/Delete/5
+        /// <summary>
+        /// Checks if the id of the db entry is valid
+        /// Than calls for the Delete page of the Exercise Tracker View;
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -123,7 +161,7 @@ namespace FitnessProgressTracker.Controllers
                 return NotFound();
             }
 
-            var exer_tracker = await _context.Exer_tracker
+            Exer_tracker exer_tracker = await _context.Exer_tracker
                 .FirstOrDefaultAsync(m => m.ID == id);
             if (exer_tracker == null)
             {
@@ -133,12 +171,20 @@ namespace FitnessProgressTracker.Controllers
             return View(exer_tracker);
         }
 
-        // POST: ExerciseTracker/Delete/5
+        /// <summary>
+        /// This is the Delete function of the Exercise tracker controller; 
+        /// checks if the id of the db entry is valid
+        /// than waits for confirmation form the user
+        /// if confirmation is given - it deletes the db entry
+        /// if not - returns to the Index page
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns> return _context.Exer_tracker.Any(e => e.ID == id) </returns>
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var exer_tracker = await _context.Exer_tracker.FindAsync(id);
+            Exer_tracker exer_tracker = await _context.Exer_tracker.FindAsync(id);
             _context.Exer_tracker.Remove(exer_tracker);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));

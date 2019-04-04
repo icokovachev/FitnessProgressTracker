@@ -7471,7 +7471,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hristo Kovachev\\.nuget\\packages\\": {},
+    "C:\\Users\\hkova\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -7480,14 +7480,14 @@
       "projectUniqueName": "D:\\FitnessProgressTracker\\CaulculatorController.Test\\CaulculatorController.Test.csproj",
       "projectName": "CaulculatorController.Test",
       "projectPath": "D:\\FitnessProgressTracker\\CaulculatorController.Test\\CaulculatorController.Test.csproj",
-      "packagesPath": "C:\\Users\\Hristo Kovachev\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\hkova\\.nuget\\packages\\",
       "outputPath": "D:\\FitnessProgressTracker\\CaulculatorController.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hristo Kovachev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hkova\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

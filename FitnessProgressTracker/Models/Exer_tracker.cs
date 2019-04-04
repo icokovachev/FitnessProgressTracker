@@ -1,14 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
-
 
 namespace FitnessProgressTracker.Models
 {
+    /// <summary>
+    /// This is the model for the Exer_tracker functionality
+    /// </summary>
     public class Exer_tracker
     {
+        /// <summary>
+        /// Initializing all variables for the exercise tracker model
+        /// </summary>
         public int ID { get; set; }
         [Display(Name = "Date")]
         [DataType(DataType.Date)]
