@@ -100,6 +100,7 @@ using Microsoft.AspNetCore.Http.Features;
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5e4cdf3ee312429ea04c1267864ab170", async() => {
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6fb292b21ade42c0900f0247eeae8afe", async() => {
@@ -110,6 +111,9 @@ using Microsoft.AspNetCore.Http.Features;
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6fb292b21ade42c0900f0247eeae8afe", async() => {
 >>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ccac12e99ebf42438bbfbb572768cd82", async() => {
+>>>>>>> parent of 5363b6b... Adding XML file; Done
                 BeginContext(1312, 10, true);
                 WriteLiteral("Learn More");
                 EndContext();

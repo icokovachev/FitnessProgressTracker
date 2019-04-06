@@ -75,6 +75,7 @@ using FitnessProgressTracker.Areas.Identity.Pages.Account.Manage;
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "7a10e24d3d9f4baca57cc58c39cf64b3", async() => {
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e164097a18c7435794f73dd61568a182", async() => {
@@ -85,6 +86,9 @@ using FitnessProgressTracker.Areas.Identity.Pages.Account.Manage;
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e164097a18c7435794f73dd61568a182", async() => {
 >>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "9b856ee855a0485da74155c3bedcc1c0", async() => {
+>>>>>>> parent of 5363b6b... Adding XML file; Done
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();

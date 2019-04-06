@@ -451,6 +451,7 @@ A:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Fit
 A:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\FitnessProgressTracker.pdb
 A:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\FitnessProgressTracker.csproj.CopyComplete
 <<<<<<< HEAD
+<<<<<<< HEAD
 A:\Git\FitnessProgressTracker\FitnessProgressTracker\bin\Debug\netcoreapp2.1\FitnessProgressTracker.xml
 =======
 >>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
@@ -458,3 +459,5 @@ A:\Git\FitnessProgressTracker\FitnessProgressTracker\bin\Debug\netcoreapp2.1\Fit
 >>>>>>> parent of 5363b6b... Adding XML file; Done
 =======
 >>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
+=======
+>>>>>>> parent of 5363b6b... Adding XML file; Done
