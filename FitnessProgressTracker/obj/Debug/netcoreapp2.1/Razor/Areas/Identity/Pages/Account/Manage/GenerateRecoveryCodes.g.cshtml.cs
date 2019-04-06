@@ -109,10 +109,14 @@ Write(ViewData["Title"]);
             EndContext();
             BeginContext(781, 69, false);
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "931df8958be34e4b9ed88b357dabdb53", async() => {
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d5459c46253746bd98ce96eac6a32e5d", async() => {
 >>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "df20f2f658a444fcb51a3dc658f797a5", async() => {
+>>>>>>> parent of 5363b6b... Adding XML file; Done
                 BeginContext(816, 30, true);
                 WriteLiteral("reset your authenticator keys.");
                 EndContext();
@@ -135,10 +139,14 @@ Write(ViewData["Title"]);
             EndContext();
             BeginContext(881, 139, false);
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5d995beac3e542eaa9a2768ed7cc007b", async() => {
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c38d2c30b9b94b109fb2543657021d8c", async() => {
 >>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e118321f7bc446838683f895022c01e4", async() => {
+>>>>>>> parent of 5363b6b... Adding XML file; Done
                 BeginContext(920, 93, true);
                 WriteLiteral("\r\n        <button class=\"btn btn-danger\" type=\"submit\">Generate Recovery Codes</button>\r\n    ");
                 EndContext();

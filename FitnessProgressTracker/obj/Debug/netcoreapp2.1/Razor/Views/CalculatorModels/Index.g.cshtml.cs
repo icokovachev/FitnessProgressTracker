@@ -70,10 +70,14 @@ using FitnessProgressTracker.Models;
             EndContext();
             BeginContext(180, 53, false);
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "2fe9cb38cf114ba8a69ef21346b73adf", async() => {
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e858a9a89a4a49fba249a514c96e1e84", async() => {
 >>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ec8576565edf4ccaa656c811d7312236", async() => {
+>>>>>>> parent of 5363b6b... Adding XML file; Done
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -93,10 +97,14 @@ using FitnessProgressTracker.Models;
             EndContext();
             BeginContext(246, 37, false);
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "848c516029d7490482f1dae18822ab80", async() => {
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e7c87b804a0b47b7ba725d2762e128e0", async() => {
 >>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b78cc860a5fd47ecbaf7e753da806712", async() => {
+>>>>>>> parent of 5363b6b... Adding XML file; Done
                 BeginContext(269, 10, true);
                 WriteLiteral("Create New");
                 EndContext();
@@ -287,10 +295,14 @@ using FitnessProgressTracker.Models;
             EndContext();
             BeginContext(2056, 53, false);
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "72f07ad201b54065b3a2a7bd1d80fc85", async() => {
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "345c51587ed847c58586c01620a95ce8", async() => {
 >>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "48ed20299e164b8d91090983f40bc02a", async() => {
+>>>>>>> parent of 5363b6b... Adding XML file; Done
                 BeginContext(2101, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -326,10 +338,14 @@ using FitnessProgressTracker.Models;
             EndContext();
             BeginContext(2129, 59, false);
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7baaf39bea1d450f88521403eb73aa8b", async() => {
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5936eaa151c14994a985266c2c4c7aea", async() => {
 >>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f2560533cbcf4789a83e3bb1668be55a", async() => {
+>>>>>>> parent of 5363b6b... Adding XML file; Done
                 BeginContext(2177, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -365,10 +381,14 @@ using FitnessProgressTracker.Models;
             EndContext();
             BeginContext(2208, 57, false);
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bc1cc76ae76547f5bb9cf7113459fb5d", async() => {
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "525ef663629a4b6a921ca0fcbd16eade", async() => {
 >>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "28a7ce9e539a47c695a5fb52ce1b6809", async() => {
+>>>>>>> parent of 5363b6b... Adding XML file; Done
                 BeginContext(2255, 6, true);
                 WriteLiteral("Delete");
                 EndContext();

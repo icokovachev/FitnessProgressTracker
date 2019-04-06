@@ -72,10 +72,14 @@ using FitnessProgressTracker.Models;
             EndContext();
             BeginContext(102, 53, false);
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ab971a3b716e4ddc985286035b431dd7", async() => {
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "129f70613ab347fa894ab17711426c36", async() => {
 >>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "282adf9b42e8462d9eb581b1cd04aa95", async() => {
+>>>>>>> parent of 5363b6b... Adding XML file; Done
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -255,19 +259,27 @@ using FitnessProgressTracker.Models;
             EndContext();
             BeginContext(1746, 207, false);
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1502c90605a34148b04d718abbd0adfe", async() => {
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5754ed60b8b749feb8717c3d5201aab6", async() => {
 >>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4c24b7a6d0664b02a605160d25c19007", async() => {
+>>>>>>> parent of 5363b6b... Adding XML file; Done
                 BeginContext(1772, 10, true);
                 WriteLiteral("\r\n        ");
                 EndContext();
                 BeginContext(1782, 36, false);
 <<<<<<< HEAD
+<<<<<<< HEAD
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "7f3803ad339042d59795ae634cce9a0a", async() => {
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "f8f35d9a38f744759d1ec615b8a401b9", async() => {
 >>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "d01f7a853c394cbe8d63e156c07f618d", async() => {
+>>>>>>> parent of 5363b6b... Adding XML file; Done
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -293,10 +305,14 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 EndContext();
                 BeginContext(1902, 38, false);
 <<<<<<< HEAD
+<<<<<<< HEAD
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "567a17187ed34a40b9673c70a74af0be", async() => {
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9fea4033ebb647e89949e2683eb2eaf6", async() => {
 >>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2f5075ba790345c3bb2f83085eb59500", async() => {
+>>>>>>> parent of 5363b6b... Adding XML file; Done
                     BeginContext(1924, 12, true);
                     WriteLiteral("Back to List");
                     EndContext();

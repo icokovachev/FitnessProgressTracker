@@ -88,10 +88,14 @@ Write(ViewData["Title"]);
                 EndContext();
                 BeginContext(219, 44, false);
 <<<<<<< HEAD
+<<<<<<< HEAD
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "85fc18f3a0f348daaa7e5643eaad2971", async() => {
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "3b8e0cc357574563b7db6dbffd9b9949", async() => {
 >>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "92afbb5c5af143288e334c5a908bee9b", async() => {
+>>>>>>> parent of 5363b6b... Adding XML file; Done
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
