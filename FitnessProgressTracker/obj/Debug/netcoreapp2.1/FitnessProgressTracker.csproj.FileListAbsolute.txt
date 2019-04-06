@@ -448,3 +448,4 @@ A:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Fit
 A:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\FitnessProgressTracker.dll
 A:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\FitnessProgressTracker.pdb
 A:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\FitnessProgressTracker.csproj.CopyComplete
+A:\Git\FitnessProgressTracker\FitnessProgressTracker\bin\Debug\netcoreapp2.1\FitnessProgressTracker.xml

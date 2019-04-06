@@ -72,7 +72,7 @@ using FitnessProgressTracker.Areas.Identity.Pages.Account.Manage;
             WriteLiteral("\r\n<h2 style=\"color:#A0C1D1\">Manage your account</h2>\r\n\r\n<div>\r\n    <h4 style=\"color:#A0C1D1\">Change your account settings</h4>\r\n    <hr />\r\n    <div class=\"row\" >\r\n        <div class=\"col-md-3\">\r\n            ");
             EndContext();
             BeginContext(270, 29, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "9b856ee855a0485da74155c3bedcc1c0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "7a10e24d3d9f4baca57cc58c39cf64b3", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
