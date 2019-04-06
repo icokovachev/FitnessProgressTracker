@@ -1,7 +1,16 @@
 ﻿body {
     background-color: #232c33;
+    background-image: url(7.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: unset;
 }
-
-.container1 {
-    text-decoration-color: rgb(218,223,247);
+.Text1 {
+    color: #D9F0FF;
+    font-family: Roboto;
+    font-size: 20px;
+}
+h2 {
+    color: #A0C1D1;
+    font-family: 'Permanent Marker', cursive;
 }
