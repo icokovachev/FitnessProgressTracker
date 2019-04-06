@@ -7471,23 +7471,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hristo Kovachev\\.nuget\\packages\\": {},
+    "C:\\Users\\hkova\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Git\\FitnessProgressTracker\\CaulculatorController.Test\\CaulculatorController.Test.csproj",
+      "projectUniqueName": "D:\\FitnessProgressTracker\\CaulculatorController.Test\\CaulculatorController.Test.csproj",
       "projectName": "CaulculatorController.Test",
-      "projectPath": "A:\\Git\\FitnessProgressTracker\\CaulculatorController.Test\\CaulculatorController.Test.csproj",
-      "packagesPath": "C:\\Users\\Hristo Kovachev\\.nuget\\packages\\",
-      "outputPath": "A:\\Git\\FitnessProgressTracker\\CaulculatorController.Test\\obj\\",
+      "projectPath": "D:\\FitnessProgressTracker\\CaulculatorController.Test\\CaulculatorController.Test.csproj",
+      "packagesPath": "C:\\Users\\hkova\\.nuget\\packages\\",
+      "outputPath": "D:\\FitnessProgressTracker\\CaulculatorController.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hristo Kovachev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hkova\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7500,8 +7500,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "A:\\Git\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj": {
-              "projectPath": "A:\\Git\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj"
+            "D:\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj": {
+              "projectPath": "D:\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj"
             }
           }
         }

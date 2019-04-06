@@ -370,6 +370,7 @@ D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\V
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\ExerciseTracker\Details.g.cshtml.cs
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\ExerciseTracker\Edit.g.cshtml.cs
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\ExerciseTracker\Index.g.cshtml.cs
+<<<<<<< HEAD
 A:\Git\FitnessProgressTracker\FitnessProgressTracker\bin\Debug\netcoreapp2.1\FitnessProgressTracker.deps.json
 A:\Git\FitnessProgressTracker\FitnessProgressTracker\bin\Debug\netcoreapp2.1\FitnessProgressTracker.runtimeconfig.json
 A:\Git\FitnessProgressTracker\FitnessProgressTracker\bin\Debug\netcoreapp2.1\FitnessProgressTracker.runtimeconfig.dev.json
@@ -449,3 +450,5 @@ A:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Fit
 A:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\FitnessProgressTracker.pdb
 A:\Git\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\FitnessProgressTracker.csproj.CopyComplete
 A:\Git\FitnessProgressTracker\FitnessProgressTracker\bin\Debug\netcoreapp2.1\FitnessProgressTracker.xml
+=======
+>>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
