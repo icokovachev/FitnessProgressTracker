@@ -5,6 +5,10 @@
     <UserSecretsId>aspnet-FitnessProgressTracker-8B6189E3-9CD5-415B-A526-05B0092BB650</UserSecretsId>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>A:\Git\FitnessProgressTracker\FitnessProgressTracker\FitnessProgressTracker.xml</DocumentationFile>
+  </PropertyGroup>
+
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />

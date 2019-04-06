@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj": {}
+    "A:\\FitnessProgressTracker-master\\FitnessProgressTracker\\FitnessProgressTracker.csproj": {}
   },
   "projects": {
-    "D:\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj": {
+    "A:\\FitnessProgressTracker-master\\FitnessProgressTracker\\FitnessProgressTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj",
+        "projectUniqueName": "A:\\FitnessProgressTracker-master\\FitnessProgressTracker\\FitnessProgressTracker.csproj",
         "projectName": "FitnessProgressTracker",
-        "projectPath": "D:\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj",
+        "projectPath": "A:\\FitnessProgressTracker-master\\FitnessProgressTracker\\FitnessProgressTracker.csproj",
         "packagesPath": "C:\\Users\\Hristo Kovachev\\.nuget\\packages\\",
-        "outputPath": "D:\\FitnessProgressTracker\\FitnessProgressTracker\\obj\\",
+        "outputPath": "A:\\FitnessProgressTracker-master\\FitnessProgressTracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

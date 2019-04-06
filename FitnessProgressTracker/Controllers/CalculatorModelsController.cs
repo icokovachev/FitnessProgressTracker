@@ -81,12 +81,7 @@ namespace FitnessProgressTracker.Controllers
         /// <returns> View(calculatorModel) </returns>
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind
-            (
-            "ID,Height,Weight," +
-            "Waist,Hip,Neck,BodyFatPer," +
-            "BodyFatMass,LeanMass"
-            )]CalculatorModel calculatorModel)
+        public async Task<IActionResult> Create([Bind ("ID,Height,Weight,Waist,Hip,Neck,BodyFatPer,BodyFatMass,LeanMass" )]CalculatorModel calculatorModel)
         {
             if (ModelState.IsValid)
             {
