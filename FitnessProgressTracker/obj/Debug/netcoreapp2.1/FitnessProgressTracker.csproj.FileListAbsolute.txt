@@ -371,6 +371,7 @@ D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\V
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\ExerciseTracker\Edit.g.cshtml.cs
 D:\FitnessProgressTracker\FitnessProgressTracker\obj\Debug\netcoreapp2.1\Razor\Views\ExerciseTracker\Index.g.cshtml.cs
 <<<<<<< HEAD
+<<<<<<< HEAD
 A:\Git\FitnessProgressTracker\FitnessProgressTracker\bin\Debug\netcoreapp2.1\FitnessProgressTracker.deps.json
 A:\Git\FitnessProgressTracker\FitnessProgressTracker\bin\Debug\netcoreapp2.1\FitnessProgressTracker.runtimeconfig.json
 A:\Git\FitnessProgressTracker\FitnessProgressTracker\bin\Debug\netcoreapp2.1\FitnessProgressTracker.runtimeconfig.dev.json
@@ -455,3 +456,5 @@ A:\Git\FitnessProgressTracker\FitnessProgressTracker\bin\Debug\netcoreapp2.1\Fit
 >>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
 =======
 >>>>>>> parent of 5363b6b... Adding XML file; Done
+=======
+>>>>>>> parent of bd1eb33... Last minute changes; Adding presentation
