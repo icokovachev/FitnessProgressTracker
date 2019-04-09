@@ -7471,23 +7471,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hkova\\.nuget\\packages\\": {},
+    "C:\\Users\\Hristo Kovachev\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Git\\FitnessProgressTracker\\CaulculatorController.Test\\CaulculatorController.Test.csproj",
       "projectName": "CaulculatorController.Test",
       "projectPath": "D:\\Git\\FitnessProgressTracker\\CaulculatorController.Test\\CaulculatorController.Test.csproj",
       "packagesPath": "C:\\Users\\hkova\\.nuget\\packages\\",
       "outputPath": "D:\\Git\\FitnessProgressTracker\\CaulculatorController.Test\\obj\\",
+=======
+      "projectUniqueName": "A:\\FitnessProgressTracker-master\\CaulculatorController.Test\\CaulculatorController.Test.csproj",
+      "projectName": "CaulculatorController.Test",
+      "projectPath": "A:\\FitnessProgressTracker-master\\CaulculatorController.Test\\CaulculatorController.Test.csproj",
+      "packagesPath": "C:\\Users\\Hristo Kovachev\\.nuget\\packages\\",
+      "outputPath": "A:\\FitnessProgressTracker-master\\CaulculatorController.Test\\obj\\",
+>>>>>>> 1020f326b00b2909e8ad2e3a2b13c042ff33ed9e
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\hkova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hristo Kovachev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7500,8 +7508,13 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
+<<<<<<< HEAD
             "D:\\Git\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj": {
               "projectPath": "D:\\Git\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj"
+=======
+            "A:\\FitnessProgressTracker-master\\FitnessProgressTracker\\FitnessProgressTracker.csproj": {
+              "projectPath": "A:\\FitnessProgressTracker-master\\FitnessProgressTracker\\FitnessProgressTracker.csproj"
+>>>>>>> 1020f326b00b2909e8ad2e3a2b13c042ff33ed9e
             }
           }
         }

@@ -5673,7 +5673,7 @@
       ]
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.2": {
-      "sha512": "ab4+TZw3Sxqrr5TwrwVyABeQkhSxYMJXgG6yZw7T+r6Vz+hcOt+pK79o15ESG7kZvWAK9wRG7emnTIia5O6R1Q==",
+      "sha512": "fe1+dpy+eM4IX1zodsvkihO1Spuj0NecfStWzvkYoMo7/ziOsqSv4vFK36ZpBfHa4gpdCEwaU46EPzdq+ZDYhQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.razor.design/2.1.2",
       "hasTools": true,
@@ -12942,23 +12942,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hkova\\.nuget\\packages\\": {},
+    "C:\\Users\\Hristo Kovachev\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Git\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj",
       "projectName": "FitnessProgressTracker",
       "projectPath": "D:\\Git\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj",
       "packagesPath": "C:\\Users\\hkova\\.nuget\\packages\\",
       "outputPath": "D:\\Git\\FitnessProgressTracker\\FitnessProgressTracker\\obj\\",
+=======
+      "projectUniqueName": "A:\\FitnessProgressTracker-master\\FitnessProgressTracker\\FitnessProgressTracker.csproj",
+      "projectName": "FitnessProgressTracker",
+      "projectPath": "A:\\FitnessProgressTracker-master\\FitnessProgressTracker\\FitnessProgressTracker.csproj",
+      "packagesPath": "C:\\Users\\Hristo Kovachev\\.nuget\\packages\\",
+      "outputPath": "A:\\FitnessProgressTracker-master\\FitnessProgressTracker\\obj\\",
+>>>>>>> 1020f326b00b2909e8ad2e3a2b13c042ff33ed9e
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\hkova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hristo Kovachev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
