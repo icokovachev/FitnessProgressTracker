@@ -12948,11 +12948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj",
+      "projectUniqueName": "D:\\Git\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj",
       "projectName": "FitnessProgressTracker",
-      "projectPath": "D:\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj",
+      "projectPath": "D:\\Git\\FitnessProgressTracker\\FitnessProgressTracker\\FitnessProgressTracker.csproj",
       "packagesPath": "C:\\Users\\hkova\\.nuget\\packages\\",
-      "outputPath": "D:\\FitnessProgressTracker\\FitnessProgressTracker\\obj\\",
+      "outputPath": "D:\\Git\\FitnessProgressTracker\\FitnessProgressTracker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
